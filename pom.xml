@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.dailycodework</groupId>
-    <artifactId>Breeze-Hotel</artifactId>
+    <artifactId>Hotel-Breeze-</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Breeze-Hotel</name>
     <description>Breeze-Hotel</description>
